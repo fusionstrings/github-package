@@ -1,0 +1,22 @@
+{
+  "name": "github-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mod.mjs",
+  "module": "mod.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fusionstrings/github-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fusionstrings/github-package/issues"
+  },
+  "homepage": "https://github.com/fusionstrings/github-package#readme"
+}
