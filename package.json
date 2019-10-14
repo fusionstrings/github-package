@@ -1,5 +1,5 @@
 {
-  "name": "github-package",
+  "name": "@fusionstrings/github-package",
   "version": "1.0.0",
   "description": "",
   "main": "mod.mjs",
